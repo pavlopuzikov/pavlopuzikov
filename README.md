@@ -15,6 +15,9 @@ ready before anyone commits a budget to it.
 - A multi-tradition natal reading practice, currently in private beta.
 - [inspect-comment](https://github.com/pavlopuzikov/inspect-comment): click an element,
   leave a comment, get a markdown review a coding agent can act on. Zero dependencies.
+- [seo-gsc](https://github.com/pavlopuzikov/seo-gsc): a local SEO, GEO and AEO toolkit
+  over Search Console data. Runs against the API or a pasted CSV, and talks to Google
+  directly rather than through a third-party broker.
 
 **Elsewhere**
 
